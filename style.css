@@ -79,6 +79,7 @@
 
       nav {
           text-align: center;
+          color: black !important;
       }
 
       #home {
@@ -175,13 +176,13 @@
       }
 
       .M img {
-          width: 350px;
-          height: 350px;
+          width: 325px;
+          height: 325px;
       }
 
       .Tab img {
-          width: 450px;
-          height: 315px;
+          width: 360px;
+          height: 252px;
       }
 
       .Watch img {
@@ -283,7 +284,7 @@
           text-align: center;
       }
 
-      table {
+      table { 
           margin: 0 auto;
       }
 
